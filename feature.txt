@@ -1,1 +1,2 @@
 "This is my first feature!" 
+"This is an updated version of the feature!" 
